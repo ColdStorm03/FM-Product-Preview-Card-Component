@@ -17,7 +17,6 @@
 
 body {
     background-color: var(--Cream);
-    max-width: 375px;
     min-height: 100vh;
     margin: 0 auto;
     display: grid;
@@ -30,10 +29,19 @@ body {
     border-radius: 10px;
     overflow: hidden;
     margin: 26px 13px;
+    display: grid;
+    max-width: 550px;
+}
+
+@media (min-width: 500px) {
+    .card {
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 .product_img {
     max-width: 100%;
+    display: block;
 }
 
 .text {
@@ -98,6 +106,12 @@ body {
     justify-content: center;
     gap: 11px;
     align-items: center;
+    margin-bottom: 20px;
+}
+
+.product_cart:hover{
+    cursor: pointer;
+    background-color: hsl(158, 36%, 20%);
 }
 
 
