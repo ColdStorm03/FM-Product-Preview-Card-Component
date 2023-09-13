@@ -35,6 +35,6 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [Tasin Absar](https://github.com/ColdStorm03)
+- GitHub - [ColdStorm03](https://github.com/ColdStorm03)
 - Frontend Mentor - [@ColdStorm03](https://www.frontendmentor.io/profile/ColdStorm03)
 - Linkedin - [Tasin Absar](https://www.linkedin.com/in/tasinabsar/)
