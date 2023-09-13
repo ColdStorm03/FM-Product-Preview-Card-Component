@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-9Bqlg7qW-s
+- Live Site URL: https://fm-product-preview-card-bytasin.netlify.app/
 
 ### Built with
 
@@ -36,5 +36,5 @@ Users should be able to:
 ## Author
 
 - GitHub - [Tasin Absar](https://github.com/ColdStorm03)
-- Frontend Mentor - [@ColdStorm03](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ColdStorm03](https://www.frontendmentor.io/profile/ColdStorm03)
 - Linkedin - [Tasin Absar](https://www.linkedin.com/in/tasinabsar/)
